@@ -13,14 +13,14 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
     
-  plugin_platform_interface: ^2.0.2
-  equatable: ^2.0.5
-  queue: ^3.1.0+1
+  plugin_platform_interface: ^2.1.8
+  equatable: ^2.1.0
+  queue: ^3.4.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^6.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
