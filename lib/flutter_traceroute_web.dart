@@ -3,7 +3,6 @@
 // package as the core of your plugin.
 // ignore: avoid_web_libraries_in_flutter
 import 'dart:html' as html show window;
-import 'dart:js' as js;
 
 import 'package:flutter_traceroute/src/models/traceroute_step.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
